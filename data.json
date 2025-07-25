@@ -1,0 +1,27 @@
+[
+    {
+        "acc-no.": 1,
+        "name": "Aditya Partap Saini",
+        "age": "21",
+        "adhaar": "12345678",
+        "pancard": "asdcxz",
+        "balance": 2000,
+        "password": "@1234",
+        "operation": "active",
+        "transactions": [
+            "Withdrew 1000",
+            "Deposited 2000"
+        ]
+    },
+    {
+        "acc-no.": 2,
+        "name": "@1234",
+        "age": "20",
+        "adhaar": "123;idfjvb",
+        "pancard": "a'osdkcn",
+        "balance": 2000,
+        "password": "o'eaifnv",
+        "operation": "deleted",
+        "transactions": []
+    }
+]
